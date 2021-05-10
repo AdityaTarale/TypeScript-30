@@ -8,8 +8,8 @@ Day 2:- JS and CSS Clock <br>
 Day 3:- Css Variables <br>
 Day 4:- Array Cardio Day 1 <br>
 Day 5:- Flex Panel Gallery <br>
-<!--Day 6:-  Type Ahead <br>
-Day 7:-  Array Cardio Day 2 <br>
+Day 6:-  Type Ahead <br>
+<!--Day 7:-  Array Cardio Day 2 <br>
 Day 8:-  Fun with Html Canvas <br>
 Day 9:-  Dev Tools Domination <br>
 Day 10:- Hold Shift and Check checkboxes <br>
@@ -23,7 +23,7 @@ Day 17:-  Sort Without Articles <br>
 Day 18:-  Adding Up Times with Reduce <br>
 Day 19:-  Webcam Fun <br>
 Day 20:-  Speech Detection <br>
-Day 21:-  Geoloaction <br>
+Day 21:-  Geo location <br>
 Day 22:-  Follow Along Link Highlighter <br>
 Day 23:-  Speech Synthesis <br>
 Day 24:-  Sticky Nav <br>
