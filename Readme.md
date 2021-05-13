@@ -11,8 +11,8 @@ Day 5:- Flex Panel Gallery <br>
 Day 6:-  Type Ahead <br>
 Day 7:-  Array Cardio Day 2 <br>
 Day 8:-  Fun with Html Canvas <br>
-<!--Day 9:-  Dev Tools Domination <br>
-Day 10:- Hold Shift and Check checkboxes <br>
+Day 9:-  Dev Tools Domination <br>
+<!--Day 10:- Hold Shift and Check checkboxes <br>
 Day 11:- Custom Video Player  <br>
 Day 12:-  Key Sequence Detection <br>
 Day 13:-  Slide in on Scroll <br>
