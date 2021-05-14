@@ -39,7 +39,7 @@ console.error("Shit!");
 console.info("Crocodiles eat 3-5 people per year");
 
 //Testing
-console.log(1 === 2, "This is wrong");
+console.assert(1 === 2, "This is wrong");
 
 const p = document.querySelector("p") as HTMLParagraphElement;
 
